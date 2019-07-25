@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InputAplikasi</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="hotel">Nama Hotel</string>
+    <string name="jumlah">Jumlah Kamar</string>
+    <string name="durasi">Durasi</string>
+    <string name="input">Submit</string>
+    <string name="output">List</string>
+    <string name="kamarhotel">Pesan Kamar</string>
+    <string name="outputnama">Nama Lengkap</string>
+    <string name="outputhotel">Nama Hotel</string>
+    <string name="outputkamar">Jumlah Kamar</string>
+    <string name="outputdurasi">Waktu Penyewaan</string>
+</resources>
