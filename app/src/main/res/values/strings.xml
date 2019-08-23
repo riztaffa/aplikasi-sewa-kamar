@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">InputAplikasi</string>
+    <string name="app_name">Aplikasi Sewa Kamar</string>
     <string name="nama">Nama Lengkap</string>
     <string name="hotel">Nama Hotel</string>
-    <string name="jumlah">Jumlah Kamar</string>
+    <string name="jumlah">Jumlah Kamar</string>h
     <string name="durasi">Durasi</string>
     <string name="input">Submit</string>
     <string name="output">List</string>
